@@ -1,0 +1,18 @@
+
+body {
+  background-color: #f2f3fa;
+}
+/* 
+.card {
+  transition: all 0.3s;
+}
+.card:hover{
+    transform: scale(1.15);
+} */
+
+.carousel {
+  transition: all 0.3s;
+}
+.hyy:hover{
+  transform: scale(1.65);
+}
